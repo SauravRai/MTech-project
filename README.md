@@ -7,7 +7,7 @@ This repository contains the Pytorch implementation of the proposed method SE-CN
 3. Sklearn
 
 # Datasets
-LFW
+CACD Dataset
 
 # Training 
 The pretrained lightcnn 4 model is required. For training use the command ```python main.py```
