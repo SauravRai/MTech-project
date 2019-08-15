@@ -1,5 +1,4 @@
 #Written by Saurav Rai
-#Implementation of the proposed Method
 from __future__ import print_function
 import argparse
 import torch
